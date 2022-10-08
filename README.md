@@ -1,5 +1,7 @@
 "hola mundo soy manuel zzarate y estoy aprendiendo git"
 "los compas si ayudan"
+"los osqueteros"
 "# C4_DesarrolloWEBG3" 
 "# C4_DesarrolloWEBG3_2" 
 "# C4_DesarrolloWEBG3_2.1" 
+"jugemos"
